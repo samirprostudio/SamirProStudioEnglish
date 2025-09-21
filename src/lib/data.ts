@@ -32,9 +32,9 @@ const teamMembers: TeamMember[] = [
 const latestVideos: LatestVideo[] = [
   {
     id: 1,
-    title: 'Fall In To You',
-    description: 'Experience the magic of love in “Fall Into You”, a stunning romantic fan-made music video featuring Harley Quinn and Spider-Man.',
-    youtubeId: 'UCCTzLQ6rS8',
+    title: '1 Million Years Ago - The Secret Jungle Life of a Beautiful Girl and a Mighty Gorilla',
+    description: 'A cinematic journey into a lost world! Witness the untold story of a stunning jungle girl and her powerful gorilla companion. A tale of survival, friendship, and breathtaking adventure.',
+    youtubeId: 'Jq1Ot63KOHI',
   },
   {
     id: 2,
